@@ -1,4 +1,4 @@
-# -reading-notes
+# reading notes
 about  Growth Mindset
 ###### A growth mindset is beneficial because it helps us grow and improve our skills and become better at whatever we are doing. They don't accept initial roadblocks as permanent limitations ######
 ![groth mindset](https://th.bing.com/th/id/OIP.vvkfCXVbLl8Pt42ciOHpvgHaD4?pid=ImgDet&rs=1)
