@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-**loulia kabbani**
-=======
 # reading notes
 about  Growth Mindset
 ###### A growth mindset is beneficial because it helps us grow and improve our skills and become better at whatever we are doing. They don't accept initial roadblocks as permanent limitations ######
 ![groth mindset](https://th.bing.com/th/id/OIP.vvkfCXVbLl8Pt42ciOHpvgHaD4?pid=ImgDet&rs=1)
->>>>>>> b88786910d965d03a6d1b25bc5f204c211fd9f18
 
 hello my name is loulia kabbani, I have diploma degree in Financial management and i am interested to be this course to develop my self skills .
 
