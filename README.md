@@ -7,9 +7,10 @@ hello my name is loulia kabbani, I have diploma degree in Financial management a
 
 **assignments** | **links**
 --------------- | ------------------------
-read01a         | [read01a](https://canvas.instructure.com/courses/2618370/discussion_topics/10868529)
-lab02           | [lab2](https://louliakab.github.io/reading-notes/)
-read02a         |  [read02a](https://canvas.instructure.com/courses/2618370/discussion_topics/10868529) 
+read01a         | [The Coder's Computer](https://github.com/louliakab/reading-notes/commit/155024fc0ec75a8def8d17d72eb2b92c93e61df2?short_path=01c8712#diff-01c87122b95f3bf1b3243aec4e6d5c4cc2cf30411b39e1dc700fad9410602b47)
+lab02           | [Learning Markdown](https://louliakab.github.io/reading-notes/)
+read02a         |  [ Learning Markdown](https://canvas.instructure.com/courses/2618370/discussion_topics/10868529) 
+read03| [Structure web pages with HTML](https://github.com/louliakab/reading-notes/blob/main/read3.md)
 
 
         
