@@ -13,6 +13,7 @@ read02a         |  [ Learning Markdown](https://canvas.instructure.com/courses/2
 read03| [Structure web pages with HTML](https://github.com/louliakab/reading-notes/blob/main/read3.md)
 read04a| [Programming with JavaScrip](https://github.com/louliakab/groth-mindset/blob/main/read04.md)
 read05         | [Operators and Loops](https://louliakab.github.io/reading.notes/read05)
+read06         |[ Design web pages with CSS]()
 
 [github account](https://github.com/louliakab)
 
