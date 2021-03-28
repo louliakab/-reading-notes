@@ -18,3 +18,17 @@ read06         |[ Design web pages with CSS](https://louliakab.github.io/reading
 
 [github account](https://github.com/louliakab)
 
+
+
+**code 201 reading notes**
+**assignments** | **links**
+--------------- | ------------------------
+class01 | [Setup Developer Toolbelt](https://github.com/louliakab/reading-notes/commit/155024fc0ec75a8def8d17d72eb2b92c93e61df2?short_path=01c8712#diff-01c87122b95f3bf1b3243aec4e6d5c4cc2cf30411b39e1dc700fad9410602b47)
+class 02       | [Introduction To Web Development](https://louliakab.github.io/reading-notes/)
+read02a       
+class03| [Lists, The Box Model, and Loops](https://github.com/louliakab/reading-notes/blob/main/read3.md)
+class04| [Links, Layouts, and Functions](https://github.com/louliakab/groth-mindset/blob/main/read04.md)
+class05         | [Images, Color, Text, and More Work With Functions](https://louliakab.github.io/reading.notes/read05)
+read06         |[ Design web pages with CSS](https://louliakab.github.io/reading.notes/)
+
+
