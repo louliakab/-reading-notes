@@ -1,3 +1,6 @@
+
+
+
 # The <HTML> :
 is a markup language which is used by the browser to manipulate text, images and other content to display it in required format.
 
@@ -15,10 +18,8 @@ HEAD: This contains the information about the HTML document. For Example, Title 
 BODY: This contains everything you want to display on the Web Page.
 Let us now have a look on the basic structure of HTML. That is the code which is must for every webpage to have:
 
-
-<!DOCTYPE html>
   
-<html>
+<!-- <html>
     <head>
         <title>
               
@@ -28,10 +29,12 @@ Let us now have a look on the basic structure of HTML. That is the code which is
     <body>
           
     </body>
-</html>
+</html> -->
+
 Every Webpage must contain this code. 
 
 # javascript:
+
 # The A B C of programming:
 A B C 
  **A** What is a script and how do I create one?
