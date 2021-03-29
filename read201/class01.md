@@ -1,7 +1,7 @@
 
 
 
-# The <HTML> :
+# The HTML :
 is a markup language which is used by the browser to manipulate text, images and other content to display it in required format.
 
 **There are generally two types of tags in HTML:**
